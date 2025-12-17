@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Tree Experience",
+  "description": "A high-end 3D Christmas experience with particle effects, photo memories, and AI hand gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
